@@ -1,6 +1,6 @@
 # Anthem
 Alternative Fullscreen Theme
 
-![Main](https://user-images.githubusercontent.com/97025763/219850577-e537ea3b-bc4c-477a-badf-6a746b54fc97.jpg)
-![Grid](https://user-images.githubusercontent.com/97025763/219850601-f268c868-da00-4f67-a0f3-d0f152773f4c.jpg)
-![GameDetails](https://user-images.githubusercontent.com/97025763/219850581-2d4b21bf-c863-473f-84b0-90e1fd929ad5.jpg)
+![MainMain](https://user-images.githubusercontent.com/97025763/220209291-df6bd5e3-e1ac-4d30-b310-920d806109f4.jpg)
+![GridMain](https://user-images.githubusercontent.com/97025763/220209297-d911366e-9e9b-4247-a529-702a5e8f92ad.jpg)
+![GameDetailsMain](https://user-images.githubusercontent.com/97025763/220209305-343eaf0e-4ce3-4bef-ad1f-936e4a0b98c0.jpg)
