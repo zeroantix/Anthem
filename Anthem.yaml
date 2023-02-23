@@ -2,7 +2,7 @@ AddonId: Anthem_0dd7c65b-909e-49ec-b19b-7277cb28ec0f
 Packages:
   - Version: 1.1.0
     RequiredApiVersion: 2.4.0
-    ReleaseDate: 2023-02-20
+    ReleaseDate: 2023-02-23
     PackageUrl: https://github.com/zeroantix/Anthem/releases/download/v1.1.0/Anthem_0dd7c65b-909e-49ec-b19b-7277cb28ec0f_1_1.pthm
     Changelog:
       - Initial Playnite Release
